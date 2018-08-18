@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:08:20:26 +0300] "GET / HTTP/1.1" 200 251 http-bio-8080-exec-1 504
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:08:20:26 +0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 9
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:08:20:29 +0300] "GET /PaginaAccesInitiala.html HTTP/1.1" 200 132 http-bio-8080-exec-5 14
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:09:53:50 +0300] "GET / HTTP/1.1" 200 251 http-bio-8080-exec-1 264
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:32:58 +0300] "GET / HTTP/1.1" 200 321 http-bio-8080-exec-1 1352
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:34:48 +0300] "GET / HTTP/1.1" 200 362 http-bio-8080-exec-1 1500
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:34:53 +0300] "GET /LetterFrequencyServlet?inputText=adadad+addaad HTTP/1.1" 200 21 http-bio-8080-exec-4 238
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:41:47 +0300] "GET /LetterFrequencyServlet?inputText=adadad+addaad HTTP/1.1" 200 21 http-bio-8080-exec-1 174
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:41:59 +0300] "GET / HTTP/1.1" 200 369 http-bio-8080-exec-4 1186
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:42:05 +0300] "GET /LetterFrequencyServlet?inputText= HTTP/1.1" 200 21 http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:43:55 +0300] "GET / HTTP/1.1" 200 369 http-bio-8080-exec-1 149
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:44:02 +0300] "GET /LetterFrequencyServlet?inputText=adadad+addaad HTTP/1.1" 200 72 http-bio-8080-exec-4 17
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:46:28 +0300] "GET / HTTP/1.1" 200 363 http-bio-8080-exec-1 1241
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:46:35 +0300] "GET /LetterFrequencyServlet?inputText=test+test+adad+dada HTTP/1.1" 200 114 http-bio-8080-exec-4 16
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:51:13 +0300] "GET / HTTP/1.1" 200 363 http-bio-8080-exec-1 203
+0:0:0:0:0:0:0:1 - - [18/Aug/2018:10:51:19 +0300] "GET /LetterFrequencyServlet?inputText=test+asaas HTTP/1.1" 200 93 http-bio-8080-exec-4 17
