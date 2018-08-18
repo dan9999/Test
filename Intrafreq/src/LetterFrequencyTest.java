@@ -17,7 +17,8 @@ public class LetterFrequencyTest {
         JSONObject response = new JSONObject();
         response.put("input", inputText);
         response.put("freq_bef", jsonInputText);
-        response.put("rot13", jsonRotate13);
+        response.put("rot13", letterFrequency.getRotatedText());
+        response.put("freq_aft", jsonRotate13);
 
         System.out.println("\nFinal json:\n" + response);
 
