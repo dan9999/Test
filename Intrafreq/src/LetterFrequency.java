@@ -21,6 +21,10 @@ public class LetterFrequency {
     public JSONObject getFrequencyRotatedText() {
         return computeFrequencyJSON(this.rotatedText);
     }
+    
+    public String getRotatedText() {
+        return rotatedText;
+    }
 
     private JSONObject computeFrequencyJSON(String inputText) {
         Map<String, Integer> frequencyMap = new HashMap<String, Integer>();
